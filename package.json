@@ -1,0 +1,28 @@
+{
+  "name": "in-and-out-slackbot",
+  "version": "1.0.0",
+  "description": "Slackbot pipe for inAndOut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stombre/inAndOut-slackbot.git"
+  },
+  "keywords": [
+    "inAndOut",
+    "pipe",
+    "slack",
+    "bot"
+  ],
+  "author": "Guillaume 'stombre' DAIX",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/stombre/inAndOut-slackbot/issues"
+  },
+  "homepage": "https://github.com/stombre/inAndOut-slackbot#readme",
+  "dependencies": {
+    "slackbots": "^0.5.1"
+  }
+}
